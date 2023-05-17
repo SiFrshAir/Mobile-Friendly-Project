@@ -1,1 +1,1 @@
-# Mobile-Friendly-Project
+# mobile-friendly-project
